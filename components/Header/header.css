@@ -1,0 +1,9 @@
+.header-div {
+  background-color: green;
+  width: 90%;
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
